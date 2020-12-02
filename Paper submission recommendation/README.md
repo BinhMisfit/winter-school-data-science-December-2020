@@ -16,3 +16,8 @@ data_dir = os.path.join(path, "")
 
 3. Run the Google Colab Notebook provided.
 
+# References
+
+For further exploration, please read our paper "S2RSCS: An Efficient Scientific Submission Recommendation System for Computer Science", accepted at the conference IEAAEI 2020 in Japan.
+
+https://github.com/BinhMisfit/paper-submission-recommender
